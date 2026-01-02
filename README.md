@@ -1,17 +1,7 @@
-<!--
-✅ GitHub Profile README for: shivam-kaushik
-Copy-paste this EXACTLY into: shivam-kaushik/README.md
-
-IMPORTANT (realistic fixes):
-1) Replace ALL placeholders like <...>
-2) Replace the via.placeholder.com images with your real screenshots (recommended)
-3) Keep only 3 featured projects max — recruiters won’t read more
--->
-
-<h1 align="center">Hi, I'm Shivam Kaushik 👋</h1>
+<h1 align="center">Hi, I'm Shivam 👋</h1>
 
 <p align="center">
-  <b>Software Engineer (AI & Data) • Process Analyst • Power BI · Python · SQL · Flutter</b>
+  <b>Builder in AI & Software</b> · Crafting agentic AI & end-to-end intelligent apps
 </p>
 
 <p align="center">
@@ -20,99 +10,89 @@ IMPORTANT (realistic fixes):
   <a href="https://github.com/shivam-kaushik">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Ready-brightgreen" />
-  <img src="https://img.shields.io/badge/SQL-Strong-blue" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow" />
-  <img src="https://img.shields.io/badge/Flutter-Mobile-informational" />
-</p>
+---
+
+## 🚀 What I’m Building
+
+- **Agentic AI systems** – LLM-powered tools that reason over user context, call tools, and automate workflows end-to-end. [web:19][memory:3]
+- **Production-ready apps** – From clean architecture and backend APIs to polished frontends and deployment. [memory:3][memory:9]
+- **ML-powered features** – Classification, recommendations, analytics, and automation baked directly into products. [memory:6][memory:7]
+
+I love taking projects from **idea → prototype → production**, with an emphasis on reliability, observability, and user experience. [memory:3][memory:9]
 
 ---
 
-## About Me (No fluff)
-I build **data-driven systems, BI dashboards, and AI-powered products** that solve real operational problems.  
-Currently working as a **Process Analyst at Family Service Toronto**, where I contribute to **workflow improvement, system analysis, analytics, UAT, and reporting**.
+## 🧠 Skills & Tools
 
-**What I actually do:**
-- Analyze and improve **business workflows** and **system integrations**
-- Translate **requirements → technical specs**
-- Perform **data quality checks**, **UAT**, and **documentation**
-- Build **Power BI dashboards**, **SQL/Python analytics**, and reporting
-- Provide **user training** and **technical support**
-
----
-
-## Featured Projects
-
-### 🔹 Lumio — Context-Aware AI Productivity App
-**What:** Smart reminders + AI-generated subtasks based on context  
-**Tech:** Flutter, Dart, Firebase / Backend APIs, AI logic  
-**Proof:** Repo: https://github.com/shivam-kaushik/Lumio
-
-<!-- <p align="center">
-  <img src="https://via.placeholder.com/900x420?text=Lumio+Preview+(Replace+with+Screenshot/GIF)" alt="Lumio Preview" />
-</p> -->
+- **Languages**: Python, Java, SQL, JavaScript/TypeScript, Dart. [memory:8][memory:3]
+- **AI / ML**: Neural Networks, Random Forests, PyTorch, scikit-learn, CNNs, ResNets, EfficientNet, hyperparameter optimization, adversarial robustness. [memory:6][memory:7][memory:8]
+- **Agentic / LLM**: OpenAI API, LangChain, prompt engineering, tool calling, retrieval-augmented generation, Gradio, Hugging Face Spaces. [web:19][memory:3]
+- **Apps & Backend**: REST APIs, Flask/FastAPI, Node.js, Firebase, authentication, background jobs, PostgreSQL. [memory:3]
+- **Cloud & Serverless**: AWS Lambda, Amazon Lex, Amazon Comprehend, Amazon S3. [web:19]
+- **Frontend / Mobile**: React.js, Flutter, responsive UI, clean UX flows. [memory:9][memory:3]
+- **Data & Analytics**: Power BI, dashboards, automation, KPI tracking, ETL. [memory:2]
+- **DevOps / Infra**: Docker, CI/CD, GitHub Actions, cloud deployment (VPS / managed services). [memory:3]
 
 ---
 
-### 🔹 RevanaAI — Agentic Automation for Sales & E-commerce Workflows
-**What:** Agent-based automation pipeline using retrieval + reasoning  
-**Tech:** Python, APIs, RAG/Embeddings, data pipeline components  
-**Proof:** Demo/Docs: [<DEMO_OR_DOC_LINK>](https://www.youtube.com/watch?v=mojyX0NFg_4) • Repo: <REVANAAI_REPO_LINK>
+## 🔍 Featured Projects
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x420?text=RevanaAI+Architecture+(Replace+with+Diagram)" alt="RevanaAI Architecture" />
-</p>
+### 📈 Revana AI – Autonomous Analytics Engine  
+**Multi-agent analytics system** that turns natural language questions into end-to-end data analysis.  
+- Planner–Executor architecture converts questions into SQL, runs **forecasting with Facebook Prophet**, performs anomaly detection, and returns ready-to-use insights.  
+- Uses **pgvector-based semantic search** for context-aware querying and generates interactive visualizations with Plotly and Chart.js.  
+- Built with **FastAPI + LangChain** and a **hybrid LLM stack** (local models for cheap/low-latency tasks, GPT‑4o for complex reasoning) to balance speed, cost, and accuracy.  
 
----
-
-### 🔹 Analytics / BI — Dashboards & Reporting (Power BI / SQL)
-**What:** KPI dashboards + reporting automation for decision-making  
-**Tech:** Power BI, DAX, SQL  
-**Proof:** Screenshot/Case Study: <LINK> • Repo: <BI_REPO_LINK>
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x420?text=Power+BI+Dashboard+(Replace+with+Screenshot)" alt="Power BI Dashboard" />
-</p>
+🔗 **GitHub:** [RevanaAI](https://github.com/shivam-kaushik/RevanaAI)  
+🎥 **Demo:** [Revana AI – YouTube](https://www.youtube.com/watch?v=mojyX0NFg_4)  
 
 ---
 
-## Skills (Only what I can defend)
+### 🎓 EduPersist AI – Student Persistence Prediction  
+**Predicting Student Persistence:** Built machine learning models (Neural Networks and Random Forests) to predict whether students persist beyond their first year using academic and demographic data.  
+- Tackled **class imbalance and missing data**, with Random Forests offering more stable and interpretable performance for stakeholders.  
+- Highlighted **ethical considerations**, including demographic bias, and proposed fairness audits and transparency practices for real deployments.  
 
-**Languages:** Python • SQL • Dart • JavaScript  
-**Data/BI:** Power BI • DAX • Data modeling • ETL • Data validation  
-**Backend/AI:** FastAPI • REST APIs • RAG/Embeddings • Automation workflows  
-**Tools:** Git/GitHub • Docker (basic) • Cloud (Azure/AWS only where used)
-
----
-
-## Professional Experience
-
-### Process Analyst — Family Service Toronto
-- Improved **business workflows** and supported **system integrations**
-- Built **Power BI dashboards** and analytical reporting assets
-- Conducted **UAT**, **data quality checks**, and documented system/process changes
-- Provided **technical support** and training for internal users
+🔗 **GitHub:** [StudentPersistence](https://github.com/shivam-kaushik/StudentPersistence-)  
+🎥 **Demo:** [EduPersist AI – YouTube](https://www.youtube.com/watch?v=biQ7eyaDNIM)  
 
 ---
 
-## What I'm targeting
-- Data Analyst / BI roles  
-- Software Engineer (Data / AI-focused)  
-- AI product & automation roles  
+### 🛡️ Image & Pattern Based Authentication  
+**Secure image-based login system** that replaces traditional passwords with image and pattern-based authentication.  
+- Reduced unauthorized access attempts by **~25%** compared to classic password methods by using image-based workflows.  
+- Designed and deployed a **Flask API** with PostgreSQL, reliably supporting **500+ users** with efficient session management.  
+
+🔗 **GitHub:** [Authentication](https://github.com/shivam-kaushik/Authentication)  
 
 ---
 
-## Connect
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- Resume: <YOUR_RESUME_URL>
-- Email: <YOUR_EMAIL>
+### 🧠 Mental Health Bot – Serverless AI Assistant  
+**AI-powered mental health assistant** that uses NLP and sentiment analysis to provide personalized support, mood tracking, and emergency guidance.  
+- Offers **24/7 availability**, personalized wellness tips, mood trend tracking, and instant escalation paths for emergencies.  
+- Built on **AWS serverless architecture** (Lambda, Lex, Comprehend, S3), ensuring scalable performance, low operational cost, and strong privacy controls.  
+
+🔗 **GitHub:** [MentalHealthBot](https://github.com/shivam-kaushik/MentalHealthBot)  
+🎥 **Demo:** [Mental Health Assistant – YouTube](https://www.youtube.com/watch?v=74L5BfmAxFM)  
 
 ---
 
-## Quick cleanup checklist (do this next)
-- [ ] Pin only 6 repos that match your target role  
-- [ ] Add proper **repo descriptions + topics** to top projects  
-- [ ] Replace placeholders with **real demos/screenshots**  
-- [ ] Archive weak/old repos or mark as **coursework**  
-- [ ] Add a simple GitHub Action (lint/tests) for at least 1 core repo
+## 🎯 What I’m Looking For
+
+- **Roles**: Software Developer, AI Engineer, Agentic AI Engineer, ML Engineer (applied / product-focused). [memory:3][web:16]
+- **Interest areas**:
+  - Agentic AI systems that connect LLMs with tools, data, and workflows. [web:19][memory:3]
+  - AI features inside real products: analytics, recommendations, intelligent automation. [memory:3][memory:2]
+  - Developer tools and platforms that help others build with AI faster. [memory:3]
+
+If your team is working on intelligent products or agentic AI platforms, feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/shivam-kaushik-22nd-may-2k/)**. [web:16][web:19]
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: [shivam-kaushik-22nd-may-2k](https://www.linkedin.com/in/shivam-kaushik-22nd-may-2k/)  
+- 🧑‍💻 GitHub: [github.com/shivam-kaushik](https://github.com/shivam-kaushik)  
+- ✉️ Email: `shivamkaushik2k@gmail.com`  
+
+Always open to chatting about **agentic AI, ML product development, and new collaboration ideas**. [web:19][memory:3]

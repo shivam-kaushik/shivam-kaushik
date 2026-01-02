@@ -10,6 +10,16 @@
   <a href="https://github.com/shivam-kaushik">GitHub</a>
 </p>
 
+## 📊 Quick Stats
+
+<div align="center">
+  ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-kaushik&show_icons=true&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kaushik&layout=compact&theme=radical&hide_border=true)
+</div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivam-kaushik&theme=radical)
+
+
 ---
 
 ## 🚀 What I’m Building

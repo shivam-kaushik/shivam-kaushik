@@ -15,9 +15,8 @@ IMPORTANT (realistic fixes):
 </p>
 
 <p align="center">
-  <a href="<YOUR_LINKEDIN_URL>">LinkedIn</a> •
-  <a href="<YOUR_RESUME_URL>">Resume</a> •
-  <a href="mailto:<YOUR_EMAIL>">Email</a> •
+  <a href="https://www.linkedin.com/in/shivam-kaushik-22nd-may-2k/">LinkedIn</a> •
+  <a href="mailto:shivamkaushik2k@gmail.com">Email</a> •
   <a href="https://github.com/shivam-kaushik">GitHub</a>
 </p>
 
@@ -48,18 +47,18 @@ Currently working as a **Process Analyst at Family Service Toronto**, where I co
 ### 🔹 Lumio — Context-Aware AI Productivity App
 **What:** Smart reminders + AI-generated subtasks based on context  
 **Tech:** Flutter, Dart, Firebase / Backend APIs, AI logic  
-**Proof:** Repo: [<LUMIO_REPO_LINK>](https://github.com/shivam-kaushik/Lumio)
+**Proof:** Repo: https://github.com/shivam-kaushik/Lumio
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://via.placeholder.com/900x420?text=Lumio+Preview+(Replace+with+Screenshot/GIF)" alt="Lumio Preview" />
-</p>
+</p> -->
 
 ---
 
 ### 🔹 RevanaAI — Agentic Automation for Sales & E-commerce Workflows
 **What:** Agent-based automation pipeline using retrieval + reasoning  
 **Tech:** Python, APIs, RAG/Embeddings, data pipeline components  
-**Proof:** Demo/Docs: <DEMO_OR_DOC_LINK> • Repo: <REVANAAI_REPO_LINK>
+**Proof:** Demo/Docs: [<DEMO_OR_DOC_LINK>](https://www.youtube.com/watch?v=mojyX0NFg_4) • Repo: <REVANAAI_REPO_LINK>
 
 <p align="center">
   <img src="https://via.placeholder.com/900x420?text=RevanaAI+Architecture+(Replace+with+Diagram)" alt="RevanaAI Architecture" />
